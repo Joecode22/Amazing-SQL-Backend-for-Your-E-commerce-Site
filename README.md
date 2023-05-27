@@ -29,7 +29,7 @@ The application will run locally on port 3001 unless otherwise specified.
 
 This video shows the each route being executed in Insomnia and you can see the tables being updated in the MySQL Workbench.
 
-https://github.com/Joecode22/Amazing-SQL-Backend-for-Your-E-commerce-Site/assets/93625431/8c2d018d-3749-47da-a295-185922807d6d
+https://github.com/Joecode22/Amazing-SQL-Backend-for-Your-E-commerce-Site/assets/93625431/dfa97c69-935f-40c6-8200-0b4ff807fb1f
 
 ## Installation
 
